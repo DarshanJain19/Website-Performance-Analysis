@@ -1,9 +1,6 @@
 # Website-Performance-Analysis
 📊 Website Performance Analysis using Python This project explores website user behavior and traffic patterns to generate actionable insights using Python. By analyzing sessions, engagement rates, and traffic sources, the goal is to help improve marketing performance and user experience.
 
-📊 Website Performance Analysis using Python
-This project explores website user behavior and traffic patterns to generate actionable insights using Python. By analyzing sessions, engagement rates, and traffic sources, the goal is to help improve marketing performance and user experience.
-
 🔍 Key Questions Explored
 1-What trends exist in website sessions and user activity over time?
 2-Which marketing channel brings the most users, and how can we use that insight to boost other channels?
